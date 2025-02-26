@@ -7,13 +7,13 @@ import { HiArrowRight } from "react-icons/hi"
 
 const links = [
     {
-        title: "PERSONAL",
+        title: "Personal Website",
         description: "About me",
         url: "https://pf.alfixd.my.id",
         icon: "/fire-svgrepo-com.svg",
     },
     {
-        title: "Playlist Spotify",
+        title: "Playlist Spotify Website",
         description: "Maybe You Like",
         url: "https://alfitech.xyz",
         icon: "/planet-1301-svgrepo-com.svg",
