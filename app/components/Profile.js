@@ -23,7 +23,7 @@ const Profile = () => {
                     <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-full animate-pulse"></div>
                 </div>
                 <h1 className="text-lg font-bold mt-2 flex items-center justify-center">
-                    ხαlxzzy
+                    ᥲᥣ𝖿і᥊ძ
                     <RiVerifiedBadgeFill className="inline text-blue-500 ml-1 items-center text-sm"/>
                 </h1>
 
