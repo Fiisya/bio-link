@@ -7,7 +7,7 @@ const Footer = () => {
             <hr className="h-px bg-gray-800 my-4 border-0"/>
             <div className="flex justify-center items-center gap-2 mt-1">
                 <PiStarFourLight className="text-gray-500"/>
-                <p>bálzz • I Think Yt Short Is Good.</p>
+                <p>AlfiXD • I Think Yt Short Is Good.</p>
             </div>
         </footer>
     )
