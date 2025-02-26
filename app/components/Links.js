@@ -34,7 +34,7 @@ const links = [
         title: "",
         isSpotify: true,
         songTitle: "",
-        artist: "tetap hidup walaupun tidak berguna",
+        artist: "AKU ADALAH NPC AKU HANYA BERBICARA JIKA ADA YANG BERBICARA PADAKU",
         albumArt: "https://files.catbox.moe/wex7bq.jpg",
         url: "",
         audioSrc: "https://tmpfiles.org/dl/21298590/pxh7p5koo7.opus",
