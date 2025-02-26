@@ -14,7 +14,7 @@ export default function Home() {
   useEffect(() => {
     const handleContextMenu = (event) => {
       event.preventDefault()
-      alert("Klik Kanan Detected!\nngapa bang? mau inspect?\n\nხαlzz`—")
+      alert("Klik Kanan Detected!\nngapa bang? mau inspect?\n\nᥲᥣ𝖿іі`—")
     }
     document.addEventListener("contextmenu", handleContextMenu)
     return () => {
