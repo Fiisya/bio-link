@@ -13,9 +13,9 @@ const links = [
         icon: "/fire-svgrepo-com.svg",
     },
     {
-        title: "WhatsApp Channels",
-        description: "Follow To Know About Code",
-        url: "https://whatsapp.com/channel/0029Vb4fjWE1yT25R7epR110",
+        title: "Playlist Spotify",
+        description: "Maybe You Like",
+        url: "https://alfitech.xyz",
         icon: "/planet-1301-svgrepo-com.svg",
     },
     {
@@ -26,7 +26,7 @@ const links = [
     },
     {
         title: "Donate",
-        description: "Jajanin aku plis",
+        description: "Buy Me A Coffe",
         url: "https://saweria.co/alfiisyl",
         icon: "/donate-solid-svgrepo-com.svg",
     },
