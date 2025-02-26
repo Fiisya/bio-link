@@ -9,7 +9,7 @@ export default function Typing() {
       script.async = true
       script.onload = () => {
         new window.Typed(".typing", {
-          strings: ["ხαlzz", "ხαlxzzy"],
+          strings: ["ᥲᥣ𝖿іі", "ᥲᥣ𝖿і᥊ძ"],
           typeSpeed: 20,
           backSpeed: 20,
           loop: true,
