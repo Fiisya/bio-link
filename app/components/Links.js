@@ -9,7 +9,7 @@ const links = [
     {
         title: "PERSONAL",
         description: "About me",
-        url: "pf.alfixd.my.id",
+        url: "https://pf.alfixd.my.id",
         icon: "/fire-svgrepo-com.svg",
     },
     {
