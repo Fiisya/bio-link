@@ -35,7 +35,7 @@ const links = [
         isSpotify: true,
         songTitle: "",
         artist: "AKU ADALAH NPC AKU HANYA BERBICARA JIKA ADA YANG BERBICARA PADAKU",
-        albumArt: "https://files.catbox.moe/wex7bq.jpg",
+        albumArt: "https://files.catbox.moe/iocuh0.jpg",
         url: "",
         audioSrc: "https://tmpfiles.org/dl/21298590/pxh7p5koo7.opus",
     },
