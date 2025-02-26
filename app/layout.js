@@ -1,10 +1,10 @@
 import "./globals.css"
 
 export const metadata = {
-  title: "ხαlzz?—",
-  description: "Welcome To Bio Link balzz/balxzzy, Find Out Info About hHim, And Stalk Him!",
-  author: "balzz",
-  keywords: "balxzzy, balzz, ambalzz, shiina api, iqstore78",
+  title: "ᥲᥣ𝖿іі?—",
+  description: "Welcome To Bio Link alfii/AlfiXD, Find Out Info About hHim, And Stalk Him!",
+  author: "alfii",
+  keywords: "AlfiXD, alfii, ambalfii, alfixd api, alfisyahriaal",
     robots: {
     index: true,
     follow: true,
