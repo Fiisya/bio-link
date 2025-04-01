@@ -27,7 +27,7 @@ const links = [
     {
         title: "Instagram Downloader",
         description: "Instagram Downloader - Fast & Free",
-        url: "igdl.alfiisyll.biz.id",
+        url: "https://igdl.alfiisyll.biz.id",
         icon: "/instagram.svg",
     },
     {
